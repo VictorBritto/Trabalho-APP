@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "78563419795",
+    "project_id": "trabalhoclonex",
+    "storage_bucket": "trabalhoclonex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78563419795:android:554da081b7840d9ebccf66",
+        "android_client_info": {
+          "package_name": "com.example.trabalho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASh7S5vBJMGPnRDlF8MIDQPBXDZaT5B7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78563419795:android:17d267d63eb03576bccf66",
+        "android_client_info": {
+          "package_name": "com.example.trabalhoapptwitter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASh7S5vBJMGPnRDlF8MIDQPBXDZaT5B7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
