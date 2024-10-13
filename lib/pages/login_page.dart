@@ -1,3 +1,5 @@
+// ignore_for_file: avoid_print
+
 import 'package:flutter/material.dart';
 import 'package:trabalho/components/botoes.dart';
 import 'package:trabalho/components/circulo_carregamento.dart';
